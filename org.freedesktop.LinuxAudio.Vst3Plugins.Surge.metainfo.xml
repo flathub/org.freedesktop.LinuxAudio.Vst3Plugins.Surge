@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
   <id>org.freedesktop.LinuxAudio.Vst3Plugins.Surge</id>
-  <extends>org.freedesktop.LinuxAudio.BaseExtension.desktop</extends>
-  <name>Surge Synthesizer VST3</name>
+  <extends>org.freedesktop.LinuxAudio.BaseExtension</extends>
+  <name>Surge Synthesizer</name>
   <summary>Surge Synthesizer VST3 plugin</summary>
   <url type="homepage">https://surge-synthesizer.github.io/</url>
   <project_license>GPL-3.0+</project_license>
